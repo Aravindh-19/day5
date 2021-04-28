@@ -1,0 +1,6 @@
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

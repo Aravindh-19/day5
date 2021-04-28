@@ -1,0 +1,5 @@
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\selvin\Desktop\My Files\Cg study material\Cg module3\day5\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
