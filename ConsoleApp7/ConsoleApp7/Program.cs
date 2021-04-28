@@ -10,7 +10,7 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
-            System.DateTime moment = new System.DateTime(2021, 04, 28, 15, 15, 32, 11);
+            System.DateTime moment = DateTime.Now;
             Console.WriteLine("year = " + moment.Year);
             Console.WriteLine("month = " + moment.Month);
             Console.WriteLine("day = " + moment.Day);
